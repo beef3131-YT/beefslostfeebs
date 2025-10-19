@@ -4,6 +4,7 @@
 ;
 Island_City: 1440 100
 Flower_red 33 flowers
+feeb_piece 33 flowers
 Flower_yellow 33 flowers
 Flower_blue 33 flowers
 Fruit_apple 10 flowers
