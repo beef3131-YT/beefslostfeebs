@@ -1,2 +1,2 @@
-intro3;everyone;Welcome to MSM:TLL!;Hey there! Welcome to MSM:TLL, a My Singing Monsters Fangame! Here are some goodies to get you started, enjoy! For some basic info on the game's core mechanics, visit the TLL QUICKSTART page on the game's website (https://sites.google.com/view/msm-tll/home/tll-quickstart) through the button below!Happy Monstering, from Azuran and Raw;icon@new;diamonds@999999999;coins@999999999;food@999999999;foodB@999999999;LVL@28;URL_LINK@Visit Tutorial Site@https://sites.google.com/view/msm-tll/home/tll-quickstart
+intro3;everyone;Welcome to Beefs MSM:TLL PS!;Beef3131 made this yay yay yay yay yay!!!;icon@new;diamonds@999999999;coins@999999999;food@999999999;foodB@999999999;LVL@28;URL_LINK@Visit Beef's Channel@https://www.youtube.com/@beef3131
 
